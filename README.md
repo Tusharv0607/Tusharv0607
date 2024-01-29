@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on: MERN and Software Development Projects<br>🤝 I’m looking for help with: Getting my hands on some real life projects.<br>🌱 I’m currently learning: Blockchain and web3<br>⚡ Fun fact: I code in HTML X)
+👯 I’m looking to collaborate on: Software Development Projects<br>.🌱 I’m currently learning: Data Engineering & Cloud Solutions<br>⚡ Fun fact: I code in HTML X)
 
 
 ## 🌐 Socials:
